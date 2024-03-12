@@ -16,4 +16,4 @@
 
 ## Code modificaiton history
 
-* 13/03/2024  create base edition recommand script, which will generate 2 dishes without similar main ingredients, however, it was noticed that this approach might recommend two dishes with similar flavors. Therefore, in the next update, each dish will be assigned a flavor attribute. The cosine similarity between them will be calculated, and a threshold will be set. If the similarity exceeds this threshold, it will be considered that the (flavors, cooking method and so on) of the two dishes are similar, and they won't be recommended repeatedly.
+* 13/03/2024  create base edition recommand script, which will generate 2 dishes without similar main ingredients, however, it was noticed that this approach might recommend two dishes with similar flavors. Therefore, in the next update, each dish will be assigned some attributes like flavor, cooking method. The cosine similarity between them will be calculated, and a threshold will be set. If the similarity exceeds this threshold, it will be considered that the (flavors, cooking method and so on) of the two dishes are similar, and they won't be recommended repeatedly.
