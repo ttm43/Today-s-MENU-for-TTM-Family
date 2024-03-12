@@ -26,6 +26,6 @@
 * [宫保鸡丁](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/blob/main/Stir-fry/%E5%AE%AB%E4%BF%9D%E9%B8%A1%E4%B8%81.md)
 * [炒猪肝](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/blob/main/Stir-fry/%E7%82%92%E7%8C%AA%E8%82%9D.md)
 
-## 炖菜(https://github.com/ttm43/Today-s-MENU-for-TTM-Family/tree/main/Stew)
+## [炖菜](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/tree/main/Stew)
 
 * [白菜炖豆腐with鱼蛋](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/blob/main/Stew/%E7%99%BD%E8%8F%9C%E7%82%96%E8%B1%86%E8%85%90with%E9%B1%BC%E8%9B%8B.md)
