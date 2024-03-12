@@ -2,7 +2,7 @@
 
 **简介**：记录一下一个懒人给对象做的饭。
 
-## （[凉菜](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/tree/main/Cold%20dish))
+## [凉菜](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/tree/main/Cold%20dish)
 
 * [鸡胸肉的处理](Cold dish\鸡胸肉的处理.md)
 * 各种素菜的处理
