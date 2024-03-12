@@ -1,6 +1,6 @@
 # ttm家今天的饭
 
-**简介**：记录一下一个懒人给对象做的饭。
+**简介**：记录一下一个懒人给对象做的饭。持续更新
 
 ## [凉菜](https://github.com/ttm43/Today-s-MENU-for-TTM-Family/tree/main/Cold%20dish)
 
