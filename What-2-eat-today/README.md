@@ -1,5 +1,3 @@
-# Want to create a model to solve the ultimate human question: What should we eat for this meal? (To be refined)
-
 ## Creating a Model to Decide What to Eat
 
 1. **Define Your Dataset**: Start by gathering a diverse set of recipes. Include dish names, ingredients, preparation time, and dietary restrictions. The broader your dataset, the more personalized your suggestions can be.
